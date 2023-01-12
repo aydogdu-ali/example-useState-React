@@ -1,5 +1,6 @@
 
 import './App.css';
+import UseStateBasic from './UseStateBasic';
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
         UseState Hook'unun Temel Kullanımı
 
       </div>
+      <UseStateBasic/>
     </>
   );
 }
