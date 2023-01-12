@@ -1,6 +1,6 @@
 
 import './App.css';
-import UseStateBasic from './UseStateBasic';
+import UseStateBasic from './UseStateBasic'; // kullanacağımız componenti impot ediyorum.
 
 function App() {
   return (
