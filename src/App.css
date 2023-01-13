@@ -32,3 +32,26 @@
 
 
 
+
+.pic {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 500rem;
+  margin-top: 0.5rem;
+  text-align: center;
+}
+
+.pic:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+
+
+p{
+  text-align: center;
+  margin-top: 3rem;
+  color:rgb(5, 99, 29);
+  font-weight: 500;
+  font-size: 1.2rem;
+}
